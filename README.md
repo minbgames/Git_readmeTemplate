@@ -1,6 +1,6 @@
 # 프로젝트 이름
 
-<a href="https://www.youtube.com/watch?v=_HX0qRxo9Gg">
+<a href="https://www.youtube.com/channel/UCY_tYmndcIn_PtSEp_dVh8Q">
   <img src="https://img.youtube.com/vi/_HX0qRxo9Gg/maxresdefault.jpg" width="500">
 </a>
 
